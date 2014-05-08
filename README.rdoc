@@ -1,0 +1,7 @@
+== README
+
+This is a solution for the GitHub Archive leaderboard challenge: https://github.com/pickerflicker/gh_archive_challenge/blob/master/gh_archive_challenge.md
+
+"gh_repo_stats.rb" is an executable ruby script.
+
+Example call: ./gh_repo_stats.rb --after 2012-11-01T13:00:00Z --before 2012-11-02T03:12:14-03:00 --event PushEvent --count 10
